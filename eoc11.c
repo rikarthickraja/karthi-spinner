@@ -4,7 +4,7 @@ int main() {
     printf("Enter a: ");
     scanf("%d", &a);
 
-    /* logic */
+    /* logic */ttps://github.com/rikarthickraja/karthi-spinner/blob/master/eo.c
     if (a % 2 == 0) {
     	printf("The given number is EVEN");
     }
